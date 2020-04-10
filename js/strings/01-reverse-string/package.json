@@ -1,0 +1,16 @@
+{
+  "name": "@mjeanroy/strings-reverse-string",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "tdd": "gulp tdd",
+    "test": "gulp test"
+  },
+  "author": "Mickael Jeanroy",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-jasmine": "4.0.0",
+    "jasmine-core": "3.5.0"
+  }
+}
