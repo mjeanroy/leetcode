@@ -6,7 +6,7 @@ Each of the 9 3x3 sub-boxes of the grid must contain the digits 1-9 without repe
 
 A partially filled sudoku which is valid.
 
-The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
+The Sudoku board could be partially filled, where empty cells are filled with the character `'.'`.
 
 Example 1:
 
