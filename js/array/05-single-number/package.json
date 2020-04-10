@@ -1,9 +1,8 @@
 {
-  "name": "@mjeanroy/array-contains-duplicates",
+  "name": "@mjeanroy/array-single-number",
   "version": "1.0.0",
   "description": "Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.",
   "main": "remove-duplicates.js",
-  "private": true,
   "scripts": {
     "tdd": "gulp tdd",
     "test": "gulp test"
