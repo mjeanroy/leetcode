@@ -1,4 +1,4 @@
-const singleNumber = require('./single-number');
+const singleNumber = require('./index');
 
 describe('single-number', () => {
   it('should return undefined with empty array', () => {

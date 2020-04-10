@@ -1,4 +1,4 @@
-const removeDuplicates = require('./remove-duplicates');
+const removeDuplicates = require('./index');
 
 describe('remove-duplicates', () => {
   it('should return empty array', () => {

@@ -1,4 +1,4 @@
-const moveZeroes = require('./move-zeroes');
+const moveZeroes = require('./index');
 
 describe('move-zeroes', () => {
   it('should return array with empty array', () => {

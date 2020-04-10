@@ -1,4 +1,4 @@
-const containsDuplicates = require('./contains-duplicates');
+const containsDuplicates = require('./index');
 
 describe('contains-duplicates', () => {
   it('should return false empty array', () => {
