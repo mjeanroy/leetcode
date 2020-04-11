@@ -1,17 +1,14 @@
 {
   "name": "@mjeanroy/array-single-number",
   "version": "1.0.0",
-  "description": "Given a sorted array nums, remove the duplicates in-place such that each element appear only once and return the new length.",
-  "main": "remove-duplicates.js",
+  "private": true,
   "scripts": {
-    "tdd": "gulp tdd",
-    "test": "gulp test"
+    "test": "jasmine *.spec.js"
   },
   "author": "Mickael Jeanroy",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "4.0.2",
-    "gulp-jasmine": "4.0.0",
+    "jasmine": "3.5.0",
     "jasmine-core": "3.5.0"
   }
 }
